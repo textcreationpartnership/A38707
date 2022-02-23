@@ -1,0 +1,741 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eucharisticon, or, An heroick poem upon the late thanksgiving day, which was the vigil or fast of St. Simon and St. Jude</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38707</idno>
+            <idno type="STC">Wing E3387</idno>
+            <idno type="STC">ESTC R9099</idno>
+            <idno type="EEBO-CITATION">13274812</idno>
+            <idno type="OCLC">ocm 13274812</idno>
+            <idno type="VID">98712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eucharisticon, or, An heroick poem upon the late thanksgiving day, which was the vigil or fast of St. Simon and St. Jude</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>ca. 1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98712:1"/>
+            <head>Euchariſticon; OR, An <hi>Heroick POEM</hi> upon the late <hi>Thankſgiving-day,</hi> which was the <hi>Vigil</hi> or <hi>Faſt</hi>of St. <hi>Simon</hi> and St. <hi>Jude.</hi>
+            </head>
+            <lg>
+               <l>'TWas on the Evening of that Day,</l>
+               <l>That very memorable Day,</l>
+               <l>The Twenty Seventh of <hi>October,</hi>
+               </l>
+               <l>When none but <hi>Jacobites</hi> were ſober,</l>
+               <l>That we beheld the Bleſſed ſight</l>
+               <l>Of Glorious Euchariſtick Light:</l>
+               <l>But that the Morn we may not wrong,</l>
+               <l>Which uſhered in the Evening Song;</l>
+               <l>Nor th'Infant Day which grew ſo great,</l>
+               <l>After it was regenerate</l>
+               <l>And re-baptiz'd by Proclamation,</l>
+               <l>And call'd <hi>Thankſgiving-day</hi> o'th' Nation,</l>
+               <pb n="2" facs="tcp:98712:2"/>
+               <l>We ſhall relate all that was done</l>
+               <l>In open Face of Moon and Sun.</l>
+               <l>But, firſt, 'tis fit that we rehearſe,</l>
+               <l>In bold, but grave, Heroick Verſe,</l>
+               <l>Why a <hi>Thankſgiving-day</hi> was choſe,</l>
+               <l>What were the Reaſons, what the Cauſe;</l>
+               <l>And why it was reſolv'd, at laſt,</l>
+               <l>They'd not Proclaim this Day a <hi>Faſt.</hi>
+               </l>
+               <l>
+                  <hi>Firſt,</hi> To the Firſt we ſhould begin,</l>
+               <l>And the <hi>Supports</hi> bring after in;</l>
+               <l>But ſince <hi>Supporting</hi>'s out of faſhion,</l>
+               <l>By the Wiſe, Warlike, <hi>Belgick</hi> Nation,</l>
+               <l>The Rear ſhall take the Advance Poſt,</l>
+               <l>And ſhew you how the <hi>Faſt</hi> was loſt.</l>
+            </lg>
+            <lg>
+               <l>In Council grave, our Senators were met,</l>
+               <l>About th'important Bus'neſs of the State;</l>
+               <l>Bus'neſs ſo weighty, that all <hi>Europe</hi> ſtood,</l>
+               <l>Hoping from hence, the Stream of all their Good,</l>
+               <l>Great Things were mov'd, and mighty Kingdoms flew,</l>
+               <l>Like ſporting Bubbles, round the God-like Crew:</l>
+               <l>They puft thoſe Cares away; but fell, at laſt,</l>
+               <l>Upon the Bus'neſs of the <hi>Monthly Fast:</hi>
+               </l>
+               <l>The great Debate was this, Whether 'twas fit</l>
+               <l>They ſhould for longer time continue it;</l>
+               <l>Or elſe Adjourn; or elſe Prorogue the Day;</l>
+               <l>Or throw their <hi>Pray'rs</hi> and <hi>Faſtings</hi> quite away.</l>
+               <l>To this hard knotty Queſtion, it was ſaid,</l>
+               <l>By a moſt Grave and Venerable Head,</l>
+               <l>That the <hi>Deſcent</hi> was baulk'd, and <hi>Numur</hi> won,</l>
+               <l>And the Campaign in all appearance done;</l>
+               <l>That Heaven could not be now beſieged in Form,</l>
+               <l>And 'twas too late o'th' year to tak't by Storm;</l>
+               <pb n="3" facs="tcp:98712:2"/>
+               <l>It would be fruitleſs too, and ſerve their turns,</l>
+               <l>No more than <hi>Dixmuid</hi> does, or little <hi>Furnes:</hi>
+               </l>
+               <l>But (in his Judgment) if they'd caſt their Pray'r</l>
+               <l>To Winter Quarters, till the Spring o'th' year,</l>
+               <l>They might have need with all their ſtrength to pray,</l>
+               <l>And then Proclaim a <hi>Weekly Faſting Day.</hi>
+               </l>
+               <l>There was no anſwering to ſo plain a caſe,</l>
+               <l>But (with low Bowes) the Motion all embrace.</l>
+               <l>Strait they gave Orders that a Proclamation</l>
+               <l>Should ſtrictly charge this <hi>Praying, Faſting</hi> Nation,</l>
+               <l>That it no more ſhould trouble Heavens quiet,</l>
+               <l>Wit Pray'rs, or Guts croaking for want of Dyet.</l>
+               <l>
+                  <hi>So much Devotion in this Age we find,</hi>
+               </l>
+               <l>
+                  <hi>That were it not by publick Laws conſin'd,</hi>
+               </l>
+               <l>
+                  <hi>Our Publick</hi> Pray'rs <hi>and</hi> Faſts <hi>would ſtrike us blind.</hi>
+               </l>
+               <l>But ſee how vain all Mortal Councils are,</l>
+               <l>We Dream of Peace, but feel th'Effects of War;</l>
+               <l>For ſcarce were theſe great Orders fully given,</l>
+               <l>Scarce the <hi>blank Sheet</hi> dy'd with the <hi>Stygian Leven,</hi>
+               </l>
+               <l>When <hi>Charleroy</hi> cry'd out, Oh help ſhe cry'd,</l>
+               <l>The <hi>French</hi> are <hi>plying</hi> hard my <hi>leaky</hi> ſide;</l>
+               <l>Is this a time to give your Praying o'er,</l>
+               <l>When we are weltring in Confed'rate gore?</l>
+               <l>When whizzing Bullets, and the roaring Bomb,</l>
+               <l>Gall us from <hi>Stem</hi> to <hi>Stern,</hi> can you be dumb?</l>
+               <l>What hath your Arms, what hath your Mony done?</l>
+               <l>Your <hi>Pray'rs</hi> are all that we depend upon.</l>
+            </lg>
+            <lg>
+               <l>She ſpake; and the amazed Council heard her Tale,</l>
+               <l>They hung their Heads, and look'd with envy pale:</l>
+               <l>Ah curſed <hi>French,</hi> they cry'd, cannot one Town</l>
+               <l>Eſcape your laſting fury? What renown</l>
+               <l>Can you obtain, what Honour get you by't?</l>
+               <l>'Tis well our Mighty Monarch's out of ſight;</l>
+               <pb n="4" facs="tcp:98712:3"/>
+               <l>Had he been nigh! But 'tis no time to talk,</l>
+               <l>Poſt to the Printer, tell him we revoke</l>
+               <l>Our late deliberate Orders; we will <hi>Fast</hi>
+               </l>
+               <l>Whilſt <hi>Gallick</hi> Bullets fly, and <hi>Pray</hi> as faſt;</l>
+               <l>But 'twas to late, for haſty Time had ſet</l>
+               <l>His <hi>Iron Teeth</hi> upon the <hi>fatal Sheet:</hi>
+               </l>
+               <l>But Fame (as Goddeſſes have done before)</l>
+               <l>Came in the nick, and brought a Story o'er,</l>
+               <l>That our moſt vigilant King was gone to fight,</l>
+               <l>And vow'd t'ſhould not be loſt, out of his ſight:</l>
+               <l>This News reſtored us, and with ſwifter ſpeed</l>
+               <l>Freſh Poſts were ſent, to tell there was no need</l>
+               <l>To ſtop the Preſs. <hi>But, O ye Gods! how ſhort</hi>
+               </l>
+               <l>
+                  <hi>Are Mortal Joys, how are we made your ſport?</hi>
+               </l>
+               <l>
+                  <hi>Like Tennis-Balls you toſs us to and fro,</hi>
+               </l>
+               <l>
+                  <hi>Or Shittlecocks, driven from Foe to Foe.</hi>
+               </l>
+               <l>Scarce was this Poſt diſpatch'd, when an Alarm</l>
+               <l>Put all the Council in a new <hi>Vacarme;</hi>
+               </l>
+               <l>For it was ſaid, our Conq'ror was retir'd,</l>
+               <l>And the unlucky Town again was fir'd.</l>
+               <l>
+                  <hi>Faſt, Fast,</hi> the Council cry'd, let's <hi>Pray</hi> amain,</l>
+               <l>Fly to the Preſs and bid it ſtop again.</l>
+               <l>
+                  <hi>So on the top of</hi> Horeb, Moſes <hi>ſtood,</hi>
+               </l>
+               <l>
+                  <hi>Out of whoſe flinty ſide he laſh'd a Flood;</hi>
+               </l>
+               <l>Aaron <hi>and</hi> Hur <hi>with him beheld the fight,</hi>
+               </l>
+               <l>
+                  <hi>Between brave</hi> Joſhua <hi>and th'</hi> Amalakite,</l>
+               <l>
+                  <hi>When he held up his Finger, they prevail;</hi>
+               </l>
+               <l>
+                  <hi>But when he let it down, the</hi> Jews <hi>turn tail.</hi>
+               </l>
+               <l>During this time, Poſts hurried through the Town,</l>
+               <l>And in their courſe fell'd one another down;</l>
+               <l>Flux, and reflux, of differing Councils daſh'd,</l>
+               <l>And, in rebounding Air, their Orders claſh'd.</l>
+               <l>
+                  <hi>So roſe the Attoms from their Bed of Night,</hi>
+               </l>
+               <l>
+                  <hi>And in confuſion choak'd the new-born Light.</hi>
+               </l>
+               <pb n="5" facs="tcp:98712:3"/>
+               <l>What heart could hold to ſee the ſad Diſtractions,</l>
+               <l>Which had well-nigh o'er-whelm'd three potent Nations?</l>
+               <l>The <hi>French</hi> themſelves took pity of our Fear,</l>
+               <l>And vow'd they'd ſpare the Town 'till the next Year.</l>
+               <l>But now proclaim a Calm; for once more Fame</l>
+               <l>Poſt on a Gale of bluſt'ring Weather came;</l>
+               <l>And 'midſt this <hi>hurly, burly,</hi> loudly ſings</l>
+               <l>A reſt to us, and to the beſt of Kings.</l>
+               <l>In ſhort, the King (with all his Victories)</l>
+               <l>Had ſafely paſt the dangerous <hi>Northern</hi> Seas.</l>
+               <l>What wou'd y' have more? We've got our King at laſt,</l>
+               <l>And all muſt grant 'tis now no time to faſt.</l>
+            </lg>
+            <lg>
+               <l>Sing then my Muſe a <hi>Halleluja</hi> Song,</l>
+               <l>Raiſe up thy Lute, which was to <hi>Faſting</hi> ſtrung:</l>
+               <l>Thankſgiving is thy Theme, and lofty <hi>Ode,</hi>
+               </l>
+               <l>
+                  <hi>And Euchariſticon</hi> thy <hi>charming Mode.</hi>
+               </l>
+               <l>Great in the Field, and ſubtle in Debate,</l>
+               <l>The King conven'd his Miniſters of State;</l>
+               <l>
+                  <hi>Flanders</hi> was not nam'd there, nor the Deſcent,</l>
+               <l>Whether it was, or was not truly meant:</l>
+               <l>Nor did they ſpeak of the great Siege of <hi>Dunkirk,</hi>
+               </l>
+               <l>Nor of their Victory obtain'd at <hi>Steinkirk.</hi>
+               </l>
+               <l>But not to ſpend our Oil and Time, in dwelling</l>
+               <l>On Negatives, as I was now a telling;</l>
+               <l>We do affirm, in ſhort, that the ſole Cauſe</l>
+               <l>Of this Auguſt and Grave Aſſembly, was</l>
+               <l>How to reſolve on this <hi>Thanksgiving-Day:</hi>
+               </l>
+               <l>For ſome ſtill thought we had more Cauſe to pray.</l>
+               <l>Theſe urg'd beſides, the Saints might think it rude</l>
+               <l>To make a <hi>Feaſt</hi> upon the <hi>Faſt</hi> of <hi>Jude;</hi>
+               </l>
+               <l>But the Arch-<hi>Haman,</hi> whoſe Advice they took</l>
+               <l>In all ſuch Matters, firſt his Noddle ſhook;</l>
+               <pb n="6" facs="tcp:98712:4"/>
+               <l>Then cry'd, Great Sir, Saints neither eat nor drink,</l>
+               <l>Nor do they care, or know what Mortals think,</l>
+               <l>To faſt before, or elſe behind a Saint,</l>
+               <l>Or not at all, we for Convenience grant,</l>
+               <l>But at the worſt, when three Faſts come together,</l>
+               <l>We may <hi>post-pone,</hi> or elſe <hi>commute</hi> at pleaſure.</l>
+               <l>Our gracious Queen (God bleſs her) when ſhe ſpy'd</l>
+               <l>How well this Man of God could thus divide,</l>
+               <l>Diſtinguiſh, prove, lay open, and decide;</l>
+               <l>Well ſpoke, ſhe ſaid, my Vote concurs with yours:</l>
+               <l>Let ſick Men faſt for Four and twenty hours</l>
+               <l>Becauſe they cannot eat: What's that to thoſe</l>
+               <l>Whoſe Health and Strength requirea treble doſe?</l>
+               <l>Beſides, the King's return'd, let that ſuffice</l>
+               <l>For you, and <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> to dry <hi>Our</hi> Royal Eyes;</l>
+               <l>His mighty ſelf, all o'er with Trophies grac't,</l>
+               <l>As ſometime Men wore Ribbands round the Waſte;</l>
+               <l>Or like an <hi>Orange</hi> ſtuck with Cloves, ſo thick</l>
+               <l>Between the Spice, a Pin can hardly ſtick:</l>
+               <l>'Tis he's return'd again, and with him brought</l>
+               <l>Bleſſings in ſtore, for which he ſtoutly fought.</l>
+               <l>But that's your Care; I have another Cauſe,</l>
+               <l>And am oblig'd to feaſt by Nature's Laws:</l>
+               <l>Born for Delight, to eat, drink, ſleep and play,</l>
+               <l>I cannot force my ſelf to faſt or pray,</l>
+               <l>I wiſh that every one were a <hi>Thankſgiving-day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All bow'd around, and with ſubmiſſive Voice</l>
+               <l>Agreed we had great Reaſon to rejoice;</l>
+               <l>But a Debate aroſe, where they ſhould fix</l>
+               <l>The <hi>main great</hi> Cauſe; for to be too prolix</l>
+               <l>In Proclamations, 'twould anticipate</l>
+               <l>Thoſe Rhimes and Pamphlets which on Conqueſt wait.</l>
+               <pb n="7" facs="tcp:98712:4"/>
+               <l>Some then propos'd to put the ſtreſs o'th'matter</l>
+               <l>On his Return: But thoſe who could not flatter</l>
+               <l>Own'd 'twas a <hi>Cauſe;</hi> but all they ſtood upon,</l>
+               <l>Was, that 'twas <hi>not</hi> a Cauſe <hi>ſine quâ non:</hi>
+               </l>
+               <l>For had he ne'er return'd, no Man will ſay</l>
+               <l>There was <hi>no</hi> Cauſe for a Thankſgiving-day.</l>
+               <l>Kings may be <hi>loſt,</hi> but Kings can never <hi>dye;</hi>
+               </l>
+               <l>For ſtill ſucceſſive <hi>Kings</hi> their place ſupply:</l>
+               <l>But if a Battel's loſt, or Town be ta'en,</l>
+               <l>The Devil's in't, how ſhall we tak't again?</l>
+               <l>High Words had like t'aroſe; but the wiſe King</l>
+               <l>Who was beſt able to decide the thing,</l>
+               <l>Thus ſpake—My Lords, ſaid he, I would believe</l>
+               <l>(How e'er you differ now) you all receive</l>
+               <l>My Perſon as a Bleſſing to the Nation;</l>
+               <l>'Twas I brought Riches in with <hi>Reformation;</hi>
+               </l>
+               <l>'Twas I reſtor'd you to your <hi>Liberties;</hi>
+               </l>
+               <l>'Twas I ſecur'd your <hi>Lives</hi> and <hi>Properties;</hi>
+               </l>
+               <l>'Twas I kept out the <hi>Foreigners</hi> you ſear'd,</l>
+               <l>Since that you little <hi>French</hi> or <hi>Iriſh</hi> heard:</l>
+               <l>'Twas I made <hi>Ireland</hi> happy, entred <hi>France,</hi>
+               </l>
+               <l>Where <hi>Schonberg,</hi> by my Order, did advance</l>
+               <l>The <hi>Proteſtant Religion,</hi> vow'd in Print</l>
+               <l>That near a <hi>Monk</hi> or <hi>Papiſt</hi> ſhould live in't.</l>
+               <l>'Twas I turn'd Popery out from hence, and ſent</l>
+               <l>The <hi>Engliſh-Scottiſh</hi> Kirk to Baniſhment.</l>
+               <l>'Twas I turn'd <hi>Sancr</hi>— out, and put one in</l>
+               <l>Who will diſpence, as faſt as you can ſin;</l>
+               <l>Who will not tie you up to the ſtrict Rules</l>
+               <l>Of <hi>Oaths,</hi> or <hi>Orders,</hi> Snares for ſqueamiſh Fools:</l>
+               <l>Unbleſt, and Unbaptized, this Church's Son</l>
+               <l>Hath all his Mother's Children half undone.</l>
+               <l>My Country-men I brought, without pretenſion</l>
+               <l>(To ſerve you here) of either <hi>Pay</hi> or <hi>Penſion.</hi>
+               </l>
+               <pb n="8" facs="tcp:98712:5"/>
+               <l>'Twas I that call'd, and kept your Parliament</l>
+               <l>So <hi>Pure</hi> and <hi>Free,</hi> there's not one Member in't</l>
+               <l>(God is my Witneſs if I tell you a Lye)</l>
+               <l>That e'er took Bribe, Penſion, or Sallary:</l>
+               <l>'Twas I that all your <hi>Grievances</hi> redreſt,</l>
+               <l>And did my ſelf of my own Rights diveſt:</l>
+               <l>'Twas I <hi>convoy</hi>'d, and then <hi>increas'd</hi> your Trade:</l>
+               <l>None but my ſelf did e'er your Rights invade.</l>
+               <l>'Twas I — But 'tis too much, I will not boaſt</l>
+               <l>What I have done for you, to your own coſt.</l>
+               <l>Let it ſuffice, I'll not put ſuch a ſtreſs</l>
+               <l>On my own Merits, as to clog the Preſs.</l>
+               <l>But ſince I find ſome of you ſeem to grutch,</l>
+               <l>And think the Cauſe of my <hi>Return</hi>'s too much;</l>
+               <l>What think you of my Victory at Sea?</l>
+               <l>Make that the Cauſe of your <hi>Thanksgiving-day.</hi>
+               </l>
+               <l>For my part, I'm indifferent, chuſe you whether;</l>
+               <l>Or if you pleaſe, we'll twiſt them both together;</l>
+               <l>There will enough be left t' expatiate,</l>
+               <l>For all muſt grant that this Campaign was great.</l>
+               <l>'Twas not in <hi>hugger, mugger,</hi> what I've done,</l>
+               <l>Since all the World knows 'twas in th'open Sun.</l>
+            </lg>
+            <lg>
+               <l>All with deep Admiration were ſtruck dumb,</l>
+               <l>The King admir'd too what at laſt would come.</l>
+               <l>At length, after they'd <hi>gaz'd</hi> and <hi>gap</hi>'d a while,</l>
+               <l>A Lord ſtood up, and with a Courtier's Smile,</l>
+               <l>Great Sir, ſaid he, 'tis now well underſtood,</l>
+               <l>What e'er your <hi>Actions</hi> are, your <hi>Memory</hi>'s good:</l>
+               <l>We now perceive how great's the <hi>Obligation,</hi>
+               </l>
+               <l>Which juſtly's <hi>owing</hi> to you by the Nation.</l>
+               <l>We'er loath to break with you upon that ſcore,</l>
+               <l>And to our <hi>broken</hi> Merchants add ſtill more.</l>
+               <pb n="9" facs="tcp:98712:5"/>
+               <l>But if you'll truſt us ſtill (for all that's paſt)</l>
+               <l>We may perhaps be <hi>even</hi> with you at laſt.</l>
+               <l>In the mean while,</l>
+               <l>We will proclaim a Feaſt in your own way,</l>
+               <l>And to ſo joyful a Thankſgiving-day,</l>
+               <l>Whole Tuns of <hi>Greaſe</hi> and <hi>Kitchen-ſtuff</hi> we'll pay:</l>
+               <l>'Twas ſaid, and it was done, and ſtrait each Lord</l>
+               <l>Made his low <hi>Exit</hi> from the Council-board.</l>
+            </lg>
+            <lg>
+               <l>Now good <hi>Miſs Muſe</hi> once more bring in your Aid,</l>
+               <l>And ſhew your ſelf a well-bred, civil Maid;</l>
+               <l>For I'm oblig'd to ſqueeze more Reaſons out,</l>
+               <l>How this damn'd Proclamation came about.</l>
+               <l>
+                  <hi>Imprimis,</hi> then (for Method muſt be choſe</l>
+               <l>Whether we write in Verſe, or write in Proſe)</l>
+               <l>We'll take theſe Matters fairly as they lie,</l>
+               <l>Not all at once) but each ſucceſſively:</l>
+               <l>Firſt then (if I may ſay't without Offence)</l>
+               <l>'Twere fit to thank the King for <hi>going hence;</hi>
+               </l>
+               <l>For had he ſtay'd, God knows what had been done,</l>
+               <l>
+                  <hi>Namur</hi> it ſelf perhaps had not been won:</l>
+               <l>But more of that hereafter. Next let's tell</l>
+               <l>The ſad Diſaſters which the <hi>French</hi> befell</l>
+               <l>At Sea, I mean; for 'tis well known at Land,</l>
+               <l>They had both Wind and Weather at Command:</l>
+               <l>Their Fleet came ſtrugling 'gainſt the <hi>Eaſtern</hi> Wind,</l>
+               <l>And full ſix Weeks they tack'd about, to find</l>
+               <l>Our Navy out, which <hi>not</hi> a <hi>hundred</hi> were,</l>
+               <l>And they <hi>full four</hi> and <hi>forty</hi> Men of War.</l>
+               <l>With Inſolence upon our <hi>Lane</hi> they bore,</l>
+               <l>And whole Broadſides with wondrous Fury roar:</l>
+               <l>The Fight was ſharp, and Fortune doubtful ſtood</l>
+               <l>To which ſhe'd give the Empire of the Flood;</l>
+               <pb n="10" facs="tcp:98712:6"/>
+               <l>When mighty <hi>Mars</hi> deſcended in a <hi>Miſt,</hi>
+               </l>
+               <l>The fierce equal Combatants diſmiſt:</l>
+               <l>We neither took, nor loſt a Ship of ours;</l>
+               <l>Nor were we <hi>conquer'd,</hi> or <hi>Conquerours.</hi>
+               </l>
+               <l>But <hi>Neptune,</hi> who of late a <hi>Neuter</hi> ſtood</l>
+               <l>Between the <hi>Britiſh</hi> and the <hi>Mogan</hi> Blood,</l>
+               <l>Finding both running in our King; cry'd out,</l>
+               <l>Return you Tide, and bring the <hi>French</hi> about:</l>
+               <l>Since <hi>England,</hi> and my <hi>Dutch</hi> are join'd, what Foe</l>
+               <l>Shall dare t'attack them, and unpuniſh'd go?</l>
+               <l>I'll beat the <hi>French</hi> my ſelf, and for their ſake</l>
+               <l>So ſtrong a Tide in <hi>Alderney,</hi> I'll make</l>
+               <l>Their Cables all ſhall <hi>drag,</hi> and <hi>Anchors</hi> break.</l>
+               <l>'Twas ſaid, and it was done; and the poor <hi>French.</hi>
+               </l>
+               <l>Fir'd ſixteen Ships his dreadful Ire to quench.</l>
+               <l>Thanks to the King then for <hi>this Victory</hi> won;</l>
+               <l>For if this will not <hi>paſs,</hi> I'Gad I've done.</l>
+               <l>
+                  <hi>Item,</hi> the Siege of <hi>Namur</hi> next comes on,</l>
+               <l>At laſt 'twas weak, at firſt damnably ſtrong:</l>
+               <l>So <hi>Mons</hi> at firſt was held impregnable;</l>
+               <l>But when 'twas ta'en, Faith, 'twas ſcarce tenable.</l>
+               <l>But howſoe'er it was, the King was there,</l>
+               <l>And ne'er expreſs'd a ſingle Mark of Fear:</l>
+               <l>He heard the Cannons roar, ſaw the Bombs fly;</l>
+               <l>And that's a Demonſtration he was nigh.</l>
+               <l>'Tis true the Town was loſt; who can help that?</l>
+               <l>The <hi>French</hi> ſtood in his way; ſo 'twa'nt his Fault.</l>
+               <l>The King of <hi>France</hi> our Monarch came to meet,</l>
+               <l>And in the <hi>Trenches</hi> kiſs his conq'ring Feet:</l>
+               <l>But our good King thought fitter to forbear;</l>
+               <l>And, out of <hi>Modeſty,</hi> would not come there:</l>
+               <l>But Thanks are due, that he was pleas'd to own,</l>
+               <l>And then <hi>depoſe</hi> to'th'taking of the Town.</l>
+               <pb n="11" facs="tcp:98712:6"/>
+               <l>For our Gazets ſuch ſtrange Relations bring,</l>
+               <l>A <hi>hundred thouſand Men</hi> might doubt the thing</l>
+               <l>Without the <hi>Atteſtation</hi> of a King.</l>
+               <l>
+                  <hi>Item</hi>—</l>
+               <l>Two hundred thouſand Pound to <hi>Savoy</hi> ſent,</l>
+               <l>I will be ſworn that Money was well ſpent:</l>
+               <l>For with this <hi>Aid, That</hi> Duke (like that Great Man,</l>
+               <l>The King of <hi>France</hi>) <hi>with forty thouſand Men</hi>
+               </l>
+               <l>
+                  <hi>Went down the Hill, and ſo came up agen.</hi>
+               </l>
+               <l>'Tis true Duke <hi>Schonberg</hi> then declar'd in <hi>Print,</hi>
+               </l>
+               <l>That to recover our <hi>Rights</hi> he there was ſent;</l>
+               <l>And promis'd if he took all <hi>Dauphiny,</hi>
+               </l>
+               <l>He firmly would eſtabliſh <hi>Popery:</hi>
+               </l>
+               <l>Thanks t'him for <hi>that,</hi> or we had never known</l>
+               <l>Who fought for <hi>Int'rest,</hi> who <hi>Religion.</hi>
+               </l>
+               <l>
+                  <hi>Next,</hi> Our <hi>Deſcent</hi> at Sea appears, which ran</l>
+               <l>(So much 'twas nois'd) from hence to <hi>Iſpahan:</hi>
+               </l>
+               <l>Four hundred thouſand Pounds (ſo great a Sum</l>
+               <l>Into a meaſur'd Verſe 'twill hardly come)</l>
+               <l>Yet this, and more, and much in Debt was ſpent</l>
+               <l>To furniſh our this well-contriv'd Deſcent.</l>
+               <l>
+                  <hi>Louis,</hi> they ſay, was almoſt dead with Fear;</l>
+               <l>And 'cauſe he thought <hi>Verſailes</hi> might be too near,</l>
+               <l>He ſoon retir'd ſtill further from the Foe,</l>
+               <l>And went to <hi>hunt</hi> and <hi>dance</hi> at <hi>Fontainbleau:</hi>
+               </l>
+               <l>Some ſay he did <hi>not</hi> fear; but if 'twere true,</l>
+               <l>I'm ſure our Thanks, at leaſt, for <hi>that</hi> are due.</l>
+               <l>Next bloody <hi>Steinkirk</hi> comes full in our way,</l>
+               <l>Pox on't, we fought upon the <hi>Sabbath</hi>-day;</l>
+               <l>And that's been ever held a Prophanation</l>
+               <l>By our <hi>True,</hi> Proteſtant, Reformed Nation:</l>
+               <l>That's the true Reaſon why <hi>we</hi> bore the brunt,</l>
+               <l>We ſee the <hi>Godly Dutch</hi> would ne'er have don't:</l>
+               <pb n="12" facs="tcp:98712:7"/>
+               <l>They <hi>ſtood</hi> their ground, and <hi>pray'd</hi> whilſt we Fools fought;</l>
+               <l>But we, forſooth, were better <hi>fed</hi> than <hi>taught:</hi>
+               </l>
+               <l>The <hi>French</hi> retir'd, and ran away to <hi>Maſs;</hi>
+               </l>
+               <l>Our <hi>Lyon</hi>'s <hi>Paw</hi> was <hi>headed</hi> by an <hi>Aſs.</hi>
+               </l>
+               <l>Well, we were flog'd, and pepper'd too, 'tis true;</l>
+               <l>But yet to give the <hi>Devil</hi> and <hi>Dutch</hi> their due,</l>
+               <l>Had not they <hi>brought us off,</hi> we might have lain</l>
+               <l>Till we had been <hi>waſh'd away</hi> with Winter's Rain:</l>
+               <l>This then deſerves a long Thankſgiving-day;</l>
+               <l>For thô we loſt our <hi>Men,</hi> we ſav'd their <hi>Pay.</hi>
+               </l>
+               <l>And now our hand is in, let's not forget</l>
+               <l>To thank Count <hi>S — s, That we were ſoundly beat:</hi>
+               </l>
+               <l>Go on, brave Men, cry'd he, <hi>Conquer</hi> or <hi>dye,</hi>
+               </l>
+               <l>The Truth ſhall not be wrong'd, whilſt I <hi>ſtand</hi> by;</l>
+               <l>And <hi>ſtand</hi> he did, as firm as any <hi>Poſt,</hi>
+               </l>
+               <l>Till he ſaw all his <hi>hated Engliſh loſt.</hi>
+               </l>
+               <l>Ah, Country-men, had I but time to prove</l>
+               <l>How well the <hi>Dutch</hi> our <hi>poor</hi> three Kingdoms love,</l>
+               <l>There's not a Man but would forſake his Farms,</l>
+               <l>And our dear <hi>Dutch</hi> embrace with open Arms.</l>
+               <l>Now little <hi>Furnes,</hi> thou ſhalt be called great,</l>
+               <l>And future Ages ſhall thy Fame repeat:</l>
+               <l>We little thought that our high-ſlown Deſcent;</l>
+               <l>(And now the Riddle's out) for ſhe was meant,</l>
+               <l>Some Politicians laid, 'twould land at <hi>Bolen;</hi>
+               </l>
+               <l>Others as wiſely judg'd 'twould ſail to <hi>Colen:</hi>
+               </l>
+               <l>Some were for <hi>Brest, St. Malo</hi>'s, or the <hi>Havre,</hi>
+               </l>
+               <l>And laid great odds the <hi>French</hi> would never ſave her;</l>
+               <l>Some for <hi>la Hogue;</hi> but others with leſs Malice,</l>
+               <l>Only pretended to recover <hi>Calais:</hi>
+               </l>
+               <l>Some were for <hi>Bilboa;</hi> but none thought of <hi>Thee,</hi>
+               </l>
+               <l>This was <hi>Deſign,</hi> this was Sheer-<hi>Policy;</hi>
+               </l>
+               <l>The reſt was given out for a pretence,</l>
+               <l>Firſt to ſurprize, and then to <hi>nabb</hi> the <hi>French.</hi>
+               </l>
+               <pb n="13" facs="tcp:98712:7"/>
+               <l>
+                  <hi>And who in War or</hi> Poetry <hi>would riſe,</hi>
+               </l>
+               <l>
+                  <hi>Take it from me, must do it by ſurprize.</hi>
+               </l>
+               <l>Thrice <hi>little Furnes,</hi> and great <hi>Dixmuid</hi> thy Brother,</l>
+               <l>For whom <hi>ten thouſand Men</hi> made ſuch a <hi>pother:</hi>
+               </l>
+               <l>You are the <hi>Twins</hi> which our Deſcent brought forth,</l>
+               <l>The World muſt grant it was a mighty Birth:</l>
+               <l>
+                  <hi>Dunkirk</hi> and <hi>Ghent</hi> were Goſſips, and ſome think</l>
+               <l>The firſt may dearly pay the <hi>Groaning Drink;</hi>
+               </l>
+               <l>Then Thanks, Great Monarch, for whate'er they coſt,</l>
+               <l>Theſe Forts declare our Money was not loſt.</l>
+               <l>Laſtly, and Chiefly (for 'tis fit at laſt</l>
+               <l>The biggeſt Plumb ſhould keep our Mouth in Taſte)</l>
+               <l>What Thanks are due for the King's Preſervation</l>
+               <l>From the <hi>Grandvallian</hi> Aſſaſſination;</l>
+               <l>It was a ſtrange Eſcape as e'er was heard;</l>
+               <l>And yet 'twas ſtrange the King too ſhould be ſcar'd</l>
+               <l>With <hi>One Gun,</hi> who ſo many Guns had heard;</l>
+               <l>Nor would we fail to thank that happy <hi>Spirit,</hi>
+               </l>
+               <l>Whoſe Vigilance did ſuch <hi>Encomiums</hi> merit;</l>
+               <l>But that he look'd ſo <hi>ſtern,</hi> one ſcarce could tell</l>
+               <l>Whether he came from <hi>Heaven</hi> or from <hi>Hell.</hi>
+               </l>
+               <l>If from the <hi>laſt,</hi> we ought to <hi>thank</hi> the Devil</l>
+               <l>That to our Monarch was ſo wondrous civil.</l>
+               <l>Thank <hi>Grandvall</hi>'s Powder, which miſtook its Aim,</l>
+               <l>And made it <hi>felf inviſible,</hi> not <hi>him.</hi>
+               </l>
+               <l>Thank <hi>Parker</hi> that he left St. <hi>German</hi>'s Court</l>
+               <l>
+                  <hi>Three days</hi> before the cautious <hi>Witneſs</hi> ſwor't:</l>
+               <l>Thanks to the King too, that he took ſuch Care</l>
+               <l>T'eſcape theſe <hi>private</hi> Dangers of the War.</l>
+               <l>Poor Gentleman, he was much pitied here;</l>
+               <l>And theſe <hi>Eſoapes</hi> have coſt us many a Tear,</l>
+               <l>Heaven ſend him better luck for the next Year.</l>
+               <pb n="14" facs="tcp:98712:8"/>
+               <l>But hold my Muſe, for ſhould our <hi>Thanks</hi> run on,</l>
+               <l>They would <hi>amaze</hi> the all-beholding Sun,</l>
+               <l>And ſtrike a bluſh upon the pale-fac'd Moon;</l>
+               <l>Then modeſtly take up, and loudly tell</l>
+               <l>How we ſet forth our Joys by <hi>Candl'</hi> and <hi>Bell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Scarce did the <hi>Poliſh,</hi> Northern Star appear,</l>
+               <l>Which ſome great Authors call the <hi>leſſer Bear.</hi>
+               </l>
+               <l>Scarce had the Cock crow'n <hi>once</hi> or <hi>twice</hi> at moſt,</l>
+               <l>And <hi>Phoebus</hi> within ken o'th' Eaſtern Coaſt.</l>
+               <l>Or in plain <hi>Engliſh,</hi> fcarce had the Clock ſtruck four;</l>
+               <l>'Tis no great Matter, whether leſs or more,</l>
+               <l>When a litigious jangling, ill-bred ſound,</l>
+               <l>Through all our Hills and Valleys did rebound;</l>
+               <l>'Twas thought the <hi>Devil</hi>'s <hi>Arſe o'th'Peak</hi> had got</l>
+               <l>Some rumblind Wind, or Collick in his Gut,</l>
+               <l>And by ſucceſſive <hi>Raptures</hi> did foretell</l>
+               <l>Downfall of Church, as by the ſound of Bell;</l>
+               <l>Some thought the <hi>Body-Politick</hi> in a Fit,</l>
+               <l>And the <hi>Soul-Bell</hi> knelling its laſt <hi>Exit.</hi>
+               </l>
+               <l>'Twas not ill Gueſt, for <hi>Church</hi> and <hi>State</hi> may find</l>
+               <l>There are <hi>ſtrange ſounds</hi> in your <hi>Rebellious</hi> Wind;</l>
+               <l>And't might be prov'd by eaſie <hi>Metaphor,</hi>
+               </l>
+               <l>Wind may be ſaid to ring, and Bells to roar;</l>
+               <l>Others ſcarce well awake, judg'd it the Groan</l>
+               <l>Of drowſie <hi>Sackbut,</hi> or the <hi>Bag-pipes</hi> Drone:</l>
+               <l>Some ſwore (who lately had ta'en a larger <hi>Sup,</hi>
+               </l>
+               <l>The <hi>Glaſſes klink'd</hi> round the <hi>Indented</hi> Cup.</l>
+               <l>In ſhort, they were the City-<hi>Choriſters,</hi>
+               </l>
+               <l>Which thus untimely lugg'd us by the Ears;</l>
+               <l>The Bells, I mean, that early thus were ſinging</l>
+               <l>Their <hi>Lauds</hi> and <hi>Mattins,</hi> which ſome Men call <hi>ringing.</hi>
+               </l>
+            </lg>
+            <pb n="15" facs="tcp:98712:8"/>
+            <lg>
+               <l>Thus paſs'd the chirping <hi>Morn.</hi> Now when the Sun</l>
+               <l>Was driving up to our <hi>Meridian,</hi>
+               </l>
+               <l>Some went to Church to hear the <hi>New Pray'rs</hi> read;</l>
+               <l>Others, who lik'd the <hi>Old,</hi> lay cloſe in Bed.</l>
+               <l>Some ſhut their Shops, which was a ſilent Token,</l>
+               <l>That if thoſe Days came off, they'd all be broken.</l>
+               <l>The Canons from the Tower broke through the Wind,</l>
+               <l>And roar'd their Thanks, <hi>that they were left behind.</hi>
+               </l>
+               <l>
+                  <hi>Lambeth</hi> return'd the Complement, and fir'd</l>
+               <l>Volleys of <hi>Bleſſings</hi> as they'd been inſpir'd.</l>
+               <l>High Pr — of <hi>Mars</hi> ſprung from <hi>Samaria</hi>'s Race,</l>
+               <l>Thou ſtill doſt love t'adore in the <hi>High Place:</hi>
+               </l>
+               <l>Thou <hi>thunder'ſt</hi> out thy <hi>Goſpel</hi> in our Ears,</l>
+               <l>And thoſe loud <hi>Organs</hi> tun'd thy <hi>new-made</hi> Pray'rs,</l>
+               <l>Thou <hi>worst</hi> and <hi>firſt</hi> of <hi>Canterbury</hi>'s Race,</l>
+               <l>That with a <hi>Wife divided</hi> Lambeth<hi>'s Grace.</hi>
+               </l>
+               <l>
+                  <hi>Mars</hi> and <hi>Bellona</hi> ne'er before had met,</l>
+               <l>
+                  <hi>Roaring</hi> and <hi>ſinging</hi> on the High-Prieſt's Seat.</l>
+               <l>Thou Man of <hi>Faith,</hi> could we believe like you,</l>
+               <l>Who would not turn a Circumciſed <hi>Jew?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Laſtly, for now my Muſe is almoſt weary;</l>
+               <l>And too much labour makes a Mare miſcarry,</l>
+               <l>I ſhould ſay ſomething of the <hi>bleſſed Night</hi>
+               </l>
+               <l>How 'twas ſet forth with <hi>artificial Light;</hi>
+               </l>
+               <l>'Twas <hi>mothy</hi> at the beſt, not of a piece,</l>
+               <l>Some <hi>black,</hi> ſome <hi>white,</hi> checker'd like <hi>Fox</hi> and <hi>Geeſe.</hi>
+               </l>
+               <l>The Lights were not of <hi>Virgin-Wax,</hi> 'tis true;</l>
+               <l>For <hi>Hybla</hi>'s <hi>Bee</hi> works not for ſuch a <hi>Crew,</hi>
+               </l>
+               <l>Nor of your precious Aromatick <hi>Gums,</hi>
+               </l>
+               <l>Nor your <hi>ſweet Oil</hi> which from <hi>Oneglia</hi> comes.</l>
+               <pb n="16" facs="tcp:98712:9"/>
+               <l>In ſhort, they were of <hi>greaſie Kitchen-ſtuff,</hi>
+               </l>
+               <l>Moſt <hi>proper</hi> for th' <hi>Occaſion;</hi> that's enough.</l>
+               <l>May thoſe who love them ſee no better Light;</l>
+               <l>For my part I have done, <hi>and ſo good Night.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
